@@ -16,7 +16,7 @@
 
 ## My story
 
-I am a software developer with a background in market research, finance, and operations. I most recently worked for a global tech start-up where my ability to identify areas of improvement in our processes led me to often collaborate with the tech team. After seeing how so many solutions required their input, I realised that I wanted to contribute to the development of the solutions, rather than just the idea.
+I am a junior software developer with a background in market research, finance, and operations. I most recently worked for a global tech start-up where my ability to identify areas of improvement in our processes led me to often collaborate with the tech team. Being inquisitive I followed the development of their solutions closely and realised that moving forward in my career I wanted to build and develop solutions, not just contribute to the initial ideas. 
 
 Having recently graduated from the Makers Academy Coding Bootcamp, I am eager to pair my newly learned technical skills with my aptitude for problem-solving within an ambitious yet supportive team environment. 
 
@@ -33,17 +33,16 @@ Name | Description | Technologies
 
 **Airsorted** **(December 2017 - March 2020)**    
 *Channels Finance Executive*  
-- Executed accounting tasks such as bank account and VAT reconciliations in several cities in which we operated
 - Improved invoicing, billing, and payment processes by uncovering several knowledge gaps in the business, reducing inefficiencies, and improving margins
 - Trained our operations' staff on new solutions and worked with our tech and product team to make client dashboard improvements
+- Executed accounting tasks such as bank account and VAT reconciliations in several cities in which we operated
 - The projects I led had the result of saving over £15,000 a month and allowed us to recoup £150,000 from managed bookings that had not been charged
 
 **Strategir** **(March 2017 - December 2017)**   
 *Market Research Analyst*
-- Managed quantitative research projects in the FMCG Sector for well known international brands such as Cadbury, Nestle and, John West  
+- Managed quantitative research projects in the FMCG Sector for well-known international brands such as Cadbury, Nestle, and John West  
 - Worked collaboratively with external suppliers, clients, and internal teams to ensure projects ran smoothly despite tight deadlines 
-- Developed my communication skills through frequent client interface on project status and managing expectations when faced with changing client requirements
-- Analysed fieldwork data and created reports to assist clients with their decision making process regarding product designs, pricing, and marketing claims that they could make 
+- Analysed fieldwork data and created reports to assist clients with their decision-making process regarding product designs, pricing, and marketing claims that they could make 
 
 **AuctionShelter** **(October 2016 - February 2017)**
 *Business Development Intern*
@@ -89,4 +88,4 @@ Through a mixture of individual and group projects, Makers ensured I developed m
 
 - :airplane: Travelling: Covered every continent except for Antarctica and visited over 30 countries
 - :tennis: Sports and Fitness: Tennis, Hiking, Surfing (...it's the taking part that counts right?) and most recently Yoga
-- :book: Reading: A relatively new interest that led me to start a book club 
+- :book: Reading: A relatively new interest that led me to start a book club. I haven't been able to convince them to read Eloquent JavaScript with me yet but it's a work in progress.  
