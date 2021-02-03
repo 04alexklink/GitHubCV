@@ -28,6 +28,7 @@ Name | Description | Technologies
 [Ciao-Pescao](https://github.com/04alexklink/acebook_ciao_pescao)| A team project to build a clone of Facebook using Ruby on Rails. | Ruby on Rails, Postgresql, Rspec |
 [Thermostat](https://github.com/04alexklink/JavaScriptThermostat)| A single-page app built using vanilla JavaScript, allowing the user to play around with a Thermostat. In addition, a weather API allows the user to see the weather in any city or country they select.  | JavaScript, Jasmine |
 [Bank technical test](https://github.com/04alexklink/RubyBankTechTest) | A command-line app allowing users to make withdrawals and deposits, store transactions, and print their statements. | Ruby, rspec |
+[JavaScript Notes App](https://github.com/04alexklink/JSNotesApp) | A single-page front-end only JavaScript Notes App | Vanilla JS, Jasmine |
 
 ## Experience
 
@@ -36,7 +37,7 @@ Name | Description | Technologies
 - Improved invoicing, billing, and payment processes by uncovering several knowledge gaps in the business, reducing inefficiencies, and improving margins
 - Trained our operations' staff on new solutions and worked with our tech and product team to make client dashboard improvements
 - Executed accounting tasks such as bank account and VAT reconciliations in several cities in which we operated
-- The projects I led had the result of saving over £15,000 a month and allowed us to recoup £150,000 from managed bookings that had not been charged
+- The projects I led had the result of saving over £15,000 a month and allowed us to recoup £100,000 from managed bookings that had not been charged
 
 **Strategir** **(March 2017 - December 2017)**   
 *Market Research Analyst*
