@@ -18,7 +18,7 @@
 
 I am a junior software developer with a background in market research, finance, and operations. I most recently worked for a global tech start-up where my ability to identify areas of improvement in our processes led me to often collaborate with the tech team. Being inquisitive I followed the development of their solutions closely and realised that moving forward in my career I wanted to build and develop solutions, not just contribute to the initial ideas. 
 
-Having recently graduated from the Makers Academy Coding Bootcamp, I am eager to pair my newly learned technical skills with my aptitude for problem-solving within an ambitious yet supportive team environment. 
+Having graduated from the Makers Academy Coding Bootcamp, I am eager to pair my newly learned technical skills with my aptitude for problem-solving within an ambitious yet supportive team environment. 
 
 ## Projects
 
