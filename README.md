@@ -32,7 +32,7 @@ Name | Description | Technologies
 
 ## Experience
 
-**Airsorted** **(December 2017 - March 2020)**    
+**Airsorted** **(December 2017 - April 2020)**    
 *Channels Finance Executive*  
 - Improved invoicing, billing, and payment processes by uncovering several knowledge gaps in the business, reducing inefficiencies, and improving margins
 - Trained our operations' staff on new solutions and worked with our tech and product team to make client dashboard improvements
@@ -65,7 +65,7 @@ Name | Description | Technologies
 
 ## Education
 
-[**Makers Academy**](https://makers.tech/) **(May 2020 - August 2020)**
+[**Makers Academy**](https://makers.tech/) **(June 2020 - September 2020)**
 
 16-week Software Development Course that focused on OOP, TDD, and Agile Development Practices.
 
