@@ -32,14 +32,14 @@ Name | Description | Technologies
 
 ## Experience
 
-**Airsorted** **(December 2017 - April 2020)**    
+**Airsorted** **(March 2018 - March 2020)**    
 *Channels Finance Executive*  
 - Improved invoicing, billing, and payment processes by uncovering several knowledge gaps in the business, reducing inefficiencies, and improving margins
 - Trained our operations' staff on new solutions and worked with our tech and product team to make client dashboard improvements
 - Executed accounting tasks such as bank account and VAT reconciliations in several cities in which we operated
 - The projects I led had the result of saving over £15,000 a month and allowed us to recoup £100,000 from managed bookings that had not been charged
 
-**Strategir** **(March 2017 - December 2017)**   
+**Strategir** **(March 2017 - October 2017)**   
 *Market Research Analyst*
 - Managed quantitative research projects in the FMCG Sector for well-known international brands such as Cadbury, Nestle, and John West  
 - Worked collaboratively with external suppliers, clients, and internal teams to ensure projects ran smoothly despite tight deadlines 
@@ -49,6 +49,9 @@ Name | Description | Technologies
 *Business Development Intern*
 - Carried out competitor analysis and helped to refine AuctionShelter's USP's
 - Researched routes to market and identified partnership opportunities
+
+**SBCS** **(September 2016- March 2017)**
+- Researched fundraising opportunities in the charitable sector
 
 ## Skills
 
@@ -65,7 +68,7 @@ Name | Description | Technologies
 
 ## Education
 
-[**Makers Academy**](https://makers.tech/) **(June 2020 - September 2020)**
+[**Makers Academy**](https://makers.tech/) **(May 2020 - September 2020)**
 
 16-week Software Development Course that focused on OOP, TDD, and Agile Development Practices.
 
